@@ -1,11 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/transportio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/transportio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/transportio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/55n9hx6QmVA?style=social)](https://youtu.be/55n9hx6QmVA)
-
+ 
   <br />
   <br />
 
@@ -47,7 +42,7 @@ git clone https://github.com/codewithsadee/transportio.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Linkedin](https://www.linkedin.com/in/ravivarma-s-u-994180280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
 
 ### License
 
