@@ -12,7 +12,7 @@
 
 ### Demo Screeshots
 
-![Transportio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Transportio Desktop Demo]("C:\Users\raviv\Desktop\HTML\transportio-master\transportio-master\readme-images\desktop.png")
 
 ### Prerequisites
 
